@@ -1,0 +1,1 @@
+{"uuid":"8da153db-753d-4b30-98e2-06d72879d9b2","name":"com.epam.automation.TestBase.beforeMethod","description":"","start":1532970675929,"stop":1532970696246,"children":["79d94cfc-16b9-45d4-9704-d017859c505d"],"befores":[{"name":"beforeMethod","status":"passed","stage":"finished","description":"","start":1532970675930,"stop":1532970696242}]}

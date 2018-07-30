@@ -1,0 +1,1 @@
+{"uuid":"d1c73b97-6b1d-4b0c-ab00-150ae17cdbe7","name":"com.epam.automation.core.TestBase.tearDown","description":"","start":1532987059383,"stop":1532987063171,"children":["ef9d1efa-4c77-494a-abe5-9330aa1be98b"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1532987059400,"stop":1532987063171}]}

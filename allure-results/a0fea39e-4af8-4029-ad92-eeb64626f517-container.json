@@ -1,0 +1,1 @@
+{"uuid":"a0fea39e-4af8-4029-ad92-eeb64626f517","name":"com.epam.automation.core.TestBase.driverCleanup","description":"","start":1532981888682,"stop":1532981891462,"children":["c8a4fa47-bc4d-45d4-8e7b-065959363820"],"afters":[{"name":"driverCleanup","status":"passed","stage":"finished","description":"","start":1532981888687,"stop":1532981891462}]}

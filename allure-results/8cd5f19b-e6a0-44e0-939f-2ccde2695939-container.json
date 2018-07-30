@@ -1,0 +1,1 @@
+{"uuid":"8cd5f19b-e6a0-44e0-939f-2ccde2695939","name":"com.epam.automation.core.TestBase.clearCookies","description":"","start":1532985706978,"stop":1532985707062,"children":["6c7c76f2-8bc6-4f46-9b1f-8b7f0108f2f8"],"afters":[{"name":"clearCookies","status":"passed","stage":"finished","description":"","start":1532985706978,"stop":1532985707062}]}

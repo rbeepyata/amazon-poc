@@ -1,0 +1,1 @@
+{"uuid":"2d2afa2a-1d0d-4797-89f3-4057564f4f7a","name":"com.epam.automation.core.TestBase.driverInit","description":"","start":1532981966819,"stop":1532981969485,"children":["cf8b1a75-541b-4e31-bdc2-a3f0b2e861f0"],"befores":[{"name":"driverInit","status":"passed","stage":"finished","description":"","start":1532981966819,"stop":1532981969485}]}
